@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\tutorial\\examples\\simpleAPIsln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {}
+  },
+  "projects": {
+    "E:\\tutorial\\examples\\simpleAPIsln\\src\\SimpleAPI\\SimpleAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\tutorial\\examples\\simpleAPIsln\\src\\SimpleAPI\\SimpleAPI.csproj",
+        "projectName": "SimpleAPI",
+        "projectPath": "E:\\tutorial\\examples\\simpleAPIsln\\src\\SimpleAPI\\SimpleAPI.csproj",
+        "packagesPath": "C:\\Users\\jp\\.nuget\\packages\\",
+        "outputPath": "E:\\tutorial\\examples\\simpleAPIsln\\src\\SimpleAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\tutorial\\examples\\simpleAPIsln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\tutorial\\examples\\simpleAPIsln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
+        "projectName": "SimpleAPI.Test",
+        "projectPath": "E:\\tutorial\\examples\\simpleAPIsln\\test\\SimpleAPI.Test\\SimpleAPI.Test.csproj",
+        "packagesPath": "C:\\Users\\jp\\.nuget\\packages\\",
+        "outputPath": "E:\\tutorial\\examples\\simpleAPIsln\\test\\SimpleAPI.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\tutorial\\examples\\simpleAPIsln\\src\\SimpleAPI\\SimpleAPI.csproj": {
+                "projectPath": "E:\\tutorial\\examples\\simpleAPIsln\\src\\SimpleAPI\\SimpleAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

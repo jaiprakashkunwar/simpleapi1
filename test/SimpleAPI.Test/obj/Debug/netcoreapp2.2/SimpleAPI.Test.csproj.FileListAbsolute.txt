@@ -1,0 +1,17 @@
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.deps.json
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.runtimeconfig.json
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.runtimeconfig.dev.json
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.dll
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.Test.pdb
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.csprojAssemblyReference.cache
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.csproj.CoreCompileInputs.cache
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.AssemblyInfoInputs.cache
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.AssemblyInfo.cs
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.dll
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.pdb
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.dll
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\bin\Debug\netcoreapp2.2\SimpleAPI.pdb
+E:\tutorial\examples\simpleAPIsln\test\SimpleAPI.Test\obj\Debug\netcoreapp2.2\SimpleAPI.Test.csproj.CopyComplete
